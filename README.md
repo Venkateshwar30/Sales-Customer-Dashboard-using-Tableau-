@@ -1,6 +1,6 @@
 # Sales and Customer Dashboard
 
-This project features interactive dashboards created in Tableau, providing insights into sales performance and customer behavior for the year 2017. The dashboards utilize multiple key performance indicators (KPIs), calculated fields, and filters to enable dynamic and in-depth data analysis.
+This project features interactive dashboards created in Tableau, providing insights into sales performance and customer behavior. The dashboards utilize multiple key performance indicators (KPIs), calculated fields, and filters to enable dynamic and in-depth data analysis.
 
 ### 1. Sales Dashboard
    - **KPIs**: Total sales, total profit, and quantity sold, with year-over-year growth percentages.
@@ -20,7 +20,7 @@ This project features interactive dashboards created in Tableau, providing insig
 - **Calculated Fields**: Custom fields to enhance data insights and calculations.
 - **KPIs and Filters**: Dynamic metrics and filters to adjust views based on different criteria.
 - **Interactive Visualizations**: Line charts, bar graphs, and tables that offer a comprehensive view of trends and performance.
-- **Year-over-Year Comparison**: Visuals comparing 2017 with the previous year to assess growth and performance.
+- **Year-over-Year Comparison**: Visuals comparing each year with the previous year to assess growth and performance.
 
 ## Benefits
 
